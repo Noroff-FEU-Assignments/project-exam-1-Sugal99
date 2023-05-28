@@ -745,11 +745,10 @@ a#\31 37\" {
 
     margin-top: -19vw;
   }
-
   .results {
     position: absolute;
-    top: 339vh;
-    left: 20vh;
+    top: 480vh;
+    left: 27vh;
     color: #6979f8;
   }
 
@@ -1147,12 +1146,12 @@ a#\31 43\" {
   }
   .results {
     position: absolute;
-    top: 205vh;
-    left: 9vh;
+    /* top: 375vh; */
+    /* left: 11vh; */
     color: #6979f8;
     font-size: 2vw;
-    margin-top: 151%;
-    margin-left: 10%;
+    margin-top: 96%;
+    margin-left: 2%;
   }
   #check:checked ~ [id="137"] {
     display: flex;
@@ -1238,15 +1237,6 @@ a#\31 43\" {
     width: 113vw;
     margin-left: -1vw;
     margin-top: 9vw;
-  }
-  .results {
-    position: absolute;
-    /* top: 375vh; */
-    /* left: 11vh; */
-    color: #6979f8;
-    font-size: 2vw;
-    margin-top: 151%;
-    margin-left: 10%;
   }
 
   a#\31 43\" {
