@@ -19,6 +19,7 @@ The tech used in this projects are as following:
 - HTML 5
 - CSS
 - Javascript
+- Wordpress Api
 
 ## Getting Started
 
