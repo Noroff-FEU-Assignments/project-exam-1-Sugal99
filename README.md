@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Noroff-FEU-Assignments/project-exam-1-Sugal99/blob/master/images/LEAGUEBLOG%20Logo%20-%20Original%20-%205000x5000.png?raw=true)
 
-A Gaming Blog that focuses on delivering news about a MOBA game called League of Legends.
+A Gaming Blog that focuses on delivering news about a MOBA game called League of Legends. The blog takes pride in being able to deliver news about the game on time!
 ## Description
 
 This whole website itself was a project exam where we had to make a blog site of any choice, and use wordpress
